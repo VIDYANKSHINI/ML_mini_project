@@ -1,0 +1,12 @@
+# Presentation & internal notes (excluded as requested)
+PRESENTATION_GUIDE_FOR_MAM.md
+PROJECT_REPORT_AND_VIVA.md
+
+# Python cache & build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.vscode/
+.idea/
+.DS_Store
